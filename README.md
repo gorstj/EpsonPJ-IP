@@ -8,6 +8,8 @@ EpsonPJ-IP.py on
 
 EpsonPJ-IP.py off
 
+EpsonPJ-IP.py status     (useful for seeing if the script is working and detecting the on/off status of your PJ)
+
 Beware - I am not a programmer and can not vouch for reliability or efficiency of this script (but works for me!)
 
 Just change the IP address to your own (and ensure you are using static IP or assigned DHCP lists on yoru router). There is no need to add a password to the script (as I don't think it is possible to change)
