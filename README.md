@@ -3,7 +3,9 @@
 Needed a way to control my TW7100 (likely works with TW7000 and other) with an ELPAP10 USB wifi card to aid home automation (rather than use IR)
 
 Usage:
+
 EpsonPJ-IP.py on
+
 EpsonPJ-IP.py off
 
 Beware - I am not a programmer and can not vouch for reliability or efficiency of this script (but works for me!)
